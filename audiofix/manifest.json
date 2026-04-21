@@ -1,0 +1,11 @@
+{
+  "name": "AudioFix",
+  "description": "Fixes audio in voice channels on Android",
+  "authors": [
+    {
+      "name": "me",
+      "id": "0"
+    }
+  ],
+  "main": "index.js"
+}
