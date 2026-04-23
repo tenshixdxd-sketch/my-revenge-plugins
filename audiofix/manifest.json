@@ -1,4 +1,5 @@
 {
+  "id": "tenshixdxd.audiofix",
   "name": "AudioFix",
   "description": "Fixes audio in voice channels on Android",
   "authors": [
@@ -7,5 +8,6 @@
       "id": "0"
     }
   ],
-  "main": "index.js"
+  "main": "index.js",
+  "version": "1.0.0"
 }
