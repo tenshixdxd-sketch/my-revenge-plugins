@@ -15,6 +15,6 @@
   return t;
 })(
   {},
-  (typeof revenge !== "undefined" ? revenge : vendetta).metro.common,
-  (typeof revenge !== "undefined" ? revenge : vendetta).patcher
+  bunny.metro.common,
+  bunny.patcher
 );
